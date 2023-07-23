@@ -34,4 +34,3 @@ C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp
 C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.genruntimeconfig.cache
 C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CopyComplete
 C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.AssemblyReference.cache
-C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
