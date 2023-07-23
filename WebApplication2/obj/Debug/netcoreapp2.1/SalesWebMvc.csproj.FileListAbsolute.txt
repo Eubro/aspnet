@@ -1,0 +1,7 @@
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.AssemblyReference.cache
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfoInputs.cache
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.AssemblyInfo.cs
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.csproj.CoreCompileInputs.cache
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cache
+C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\obj\Debug\netcoreapp2.1\SalesWebMvc.RazorAssemblyInfo.cs

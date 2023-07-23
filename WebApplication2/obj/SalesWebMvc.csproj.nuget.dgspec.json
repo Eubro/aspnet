@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\WebApplication2.csproj": {}
+    "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\SalesWebMvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\WebApplication2.csproj": {
+    "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\SalesWebMvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\WebApplication2.csproj",
-        "projectName": "WebApplication2",
-        "projectPath": "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\WebApplication2.csproj",
+        "projectUniqueName": "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\SalesWebMvc.csproj",
+        "projectName": "SalesWebMvc",
+        "projectPath": "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\SalesWebMvc.csproj",
         "packagesPath": "C:\\Users\\Gamer\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Gamer\\source\\repos\\WebApplication1\\WebApplication2\\obj\\",
         "projectStyle": "PackageReference",
@@ -99,10 +99,6 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
-            },
-            "Pomelo.EntityFrameworkCore.MySql": {
-              "target": "Package",
-              "version": "[2.1.1, )"
             }
           },
           "imports": [
