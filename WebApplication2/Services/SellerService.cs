@@ -54,6 +54,6 @@ namespace WebApplication2.Services
             {
                 throw new DbConcurrencyException(e.Message);
             }
-        }
+        } 
     }
 }
