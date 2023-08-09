@@ -23,8 +23,13 @@ using WebApplication2.Models.ViewModels;
 
 #line default
 #line hidden
+#line 3 "C:\Users\Gamer\source\repos\WebApplication1\WebApplication2\Views\_ViewImports.cshtml"
+using WebApplication2.Models;
+
+#line default
+#line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"ddef9aa8e3b500a8cd2cdf524c3f3ee73dfb44bd", @"/Views/Home/About.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"68e58fe6fc985b9576b30d096ca292dd41054147", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"afe1f3c65360ec4eee801b29b1e179379f74134b", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_About : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
